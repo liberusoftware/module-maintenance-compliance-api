@@ -2,7 +2,7 @@
   "name": "module-maintenance-compliance-api",
   "display_name": "Maintenance Compliance api",
   "description": "Compliance records, evidence, and corrective-action API presentation adapter.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "category": "presentation",
   "provider": "Liberu\\Modules\\Maintenance\\Compliance\\Api\\ComplianceApiServiceProvider",
   "requires": {
